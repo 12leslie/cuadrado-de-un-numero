@@ -1,0 +1,8 @@
+C:\Users\leslie\source\repos\ingrsar un numero y mostrsr el cuadrado del mismo\ingrsar un numero y mostrsr el cuadrado del mismo\bin\Debug\ingrsar un numero y mostrsr el cuadrado del mismo.exe.config
+C:\Users\leslie\source\repos\ingrsar un numero y mostrsr el cuadrado del mismo\ingrsar un numero y mostrsr el cuadrado del mismo\bin\Debug\ingrsar un numero y mostrsr el cuadrado del mismo.exe
+C:\Users\leslie\source\repos\ingrsar un numero y mostrsr el cuadrado del mismo\ingrsar un numero y mostrsr el cuadrado del mismo\bin\Debug\ingrsar un numero y mostrsr el cuadrado del mismo.pdb
+C:\Users\leslie\source\repos\ingrsar un numero y mostrsr el cuadrado del mismo\ingrsar un numero y mostrsr el cuadrado del mismo\obj\Debug\ingrsar un numero y mostrsr el cuadrado del mismo.csproj.AssemblyReference.cache
+C:\Users\leslie\source\repos\ingrsar un numero y mostrsr el cuadrado del mismo\ingrsar un numero y mostrsr el cuadrado del mismo\obj\Debug\ingrsar un numero y mostrsr el cuadrado del mismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\leslie\source\repos\ingrsar un numero y mostrsr el cuadrado del mismo\ingrsar un numero y mostrsr el cuadrado del mismo\obj\Debug\ingrsar un numero y mostrsr el cuadrado del mismo.csproj.CoreCompileInputs.cache
+C:\Users\leslie\source\repos\ingrsar un numero y mostrsr el cuadrado del mismo\ingrsar un numero y mostrsr el cuadrado del mismo\obj\Debug\ingrsar un numero y mostrsr el cuadrado del mismo.exe
+C:\Users\leslie\source\repos\ingrsar un numero y mostrsr el cuadrado del mismo\ingrsar un numero y mostrsr el cuadrado del mismo\obj\Debug\ingrsar un numero y mostrsr el cuadrado del mismo.pdb
